@@ -2,6 +2,7 @@
 #py -m install virtualenv
 #py -m virtualenv env
 #env\Scripts\activate.ps1
+#py -m pip install flask
 #py -m pip install mysq-connector
 #py -m install mysql-connector-python
 
